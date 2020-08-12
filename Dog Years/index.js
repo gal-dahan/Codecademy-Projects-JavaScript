@@ -1,4 +1,4 @@
-var myAge = 21;
+var myAge = 20;
 var firstYears = 2 * 10.5;
 var laterYears = (myAge - 2) * 4;
 var myAgeInDogYears = firstYears + laterYears;
